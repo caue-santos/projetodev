@@ -19,7 +19,7 @@
 
 > Com seu servidor web já configurado (recomenda-se linux), você deve fazer o download do projeto, ou o clone do repositório:
 ```
-git clone https://github.com/CaueSants/Marvel-Project.git
+git clone https://github.com/CaueSants/projetodev.git
 ```
 Acesse o diretório da aplicação e instale suas dependências através do Composer:
 ```
